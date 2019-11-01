@@ -14,7 +14,7 @@ latestUpdateDate: "2019-10-10"
 spec:
   containers:
   - name: codewind-che-sidecar
-    image: marko11/codewind-che-sidecar:hybrid
+    image: tobespc/codewind-che-sidecar:remote
     volumes:
       - mountPath: "/projects"
         name: projects

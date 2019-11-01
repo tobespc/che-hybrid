@@ -13,7 +13,7 @@ components:
     id: eclipse/che-theia/7.1.0
   - alias: codewind-sidecar
     type: chePlugin
-    id: https://raw.githubusercontent.com/markcor11/che-hybrid/master/meta.yaml
+    id: https://raw.githubusercontent.com/tobespc/che-hybrid/master/meta.yaml
   - alias: codewind-theia
     type: chePlugin
-    id: https://raw.githubusercontent.com/markcor11/che-hybrid/master/codewind-theia/hybrid/meta.yaml
+    id: https://raw.githubusercontent.com/tobespc/che-hybrid/master/codewind-theia/hybrid/meta.yaml
