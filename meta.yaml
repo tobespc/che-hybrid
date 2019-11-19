@@ -14,7 +14,7 @@ latestUpdateDate: "2019-10-10"
 spec:
   containers:
   - name: codewind-che-sidecar
-    image: eclipse/codewind-che-sidecar:0.6.0
+    image: tobespc/codewind-che-sidecar:0.6.0
     volumes:
       - mountPath: "/projects"
         name: projects
